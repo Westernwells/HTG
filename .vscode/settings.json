@@ -1,0 +1,9 @@
+{
+    "workbench.colorCustomizations": {
+        "activityBar.background": "#58141B",
+        "titleBar.activeBackground": "#7B1C26",
+        "titleBar.activeForeground": "#FEFBFB"
+    }
+    "editor.fontFamily": "Dank Mono",
+    "editor.fontLigatures": true
+}
